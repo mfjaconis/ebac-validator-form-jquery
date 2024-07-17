@@ -39,7 +39,7 @@ $('form').validate({
         email: 'Por favor, digite seu email',
         telefone: 'Por favor, digite seu telefone',
         endereco: 'Por favor, digite seu endereço',
-        cep: 'Por favor, digite seu CEP ',
+        cep: 'Por favor, digite seu CEP',
         cpf: 'Por favor, digite seu CPF',
     },
     submitHandler: function (form) {
